@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/examService/service/QuestionExcelService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examService/service/ScoreExcleService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examService/service/StuInfoExcelService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exambean/model/LoginBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exambean/model/QuestionBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/exambean/model/StudentInfoBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/BatchAdditionServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/ExitServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/PaperQuantityServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/PasswordModifyServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/QuestionExtractServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/QuestionModifyServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/QuestionShowByPageServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/ScoreCalServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/ScoreModifyServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/ScoreShowByPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/StudentModifyServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/examservlet/control/StudentShowByPageServlet.java" charset="GBK" />
+  </component>
+</project>
